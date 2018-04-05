@@ -1,3 +1,4 @@
+THIS IS A SAMPLE INPUT FOR WHEN YOU'RE PROMPTED TO INPUT FILE
 create i1 queue
 create i1 queue
 create i1 stack
