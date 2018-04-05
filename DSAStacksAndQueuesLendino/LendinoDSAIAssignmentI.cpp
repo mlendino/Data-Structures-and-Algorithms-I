@@ -3,8 +3,9 @@
 
  This program asks the user for the name of an input text file and an output text file; the input
  file contains commands directing the program to create a stack or queue (either of which can store
- int, double, or string, and push to or pop from the stack or queue.  The stacks and queues are
- implemented using a singly linked list.  
+ int, double, or string, and push to or pop from the stack or queue.The stacks and queues are
+ implemented using a singly linked list.  Thank you Ali and Kevin for showing me new ways to debug and
+ checking my C++ conventions.
 */
 
 #include <iostream>
